@@ -28,3 +28,6 @@ C:\Users\customer\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe
 C:\Users\customer\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.pdb
 C:\Users\customer\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
 C:\Users\customer\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\customer\Desktop\KinectBelkin\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+C:\Users\customer\Desktop\KinectBelkin\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\customer\Desktop\KinectBelkin\obj\Debug\SpeechBasics-WPF.pdb
